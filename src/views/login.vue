@@ -35,9 +35,9 @@ export default {
     data(){
         return {
             user:{
-                phone:'17626521182',
+                phone:'',
                 type:'u',
-                password:'yuanqiu0825'
+                password:''
             }
         }
     },
