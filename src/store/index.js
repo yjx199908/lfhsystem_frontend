@@ -5,7 +5,7 @@ Vue.use(Vuex)
 
 export default new Vuex.Store({
   state: {
-    baseUrl:'http://localhost:9099',
+    baseUrl:'http://106.14.123.36:9099',
     user:{
       id:-1,
       name:'未知用户',
